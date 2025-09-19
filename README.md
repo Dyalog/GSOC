@@ -53,6 +53,23 @@ Please try to include as much as possible from this template:
     What are the goals and how do you see us and the community benefitting from your idea?
 ```
 
+## APL387 Font (New!)
+- Project: Work on the new APL387 font
+- Size: Small/Medium
+- Difficulty level: Easy/Medium
+- Project URL: https://github.com/Dyalog/APL387
+- Potential mentors: Adám Brudzewsky ([@abrudz](https://github.com/abrudz))
+- Discussions: Issues tab of the project
+
+#### Description
+- A medium one is to add missing accented characters.
+- A larger project would be adding entire missing alphabets or additional mathematical symbols.
+- [#82](https://github.com/Dyalog/APL387/issues/82): Another one that might be medium-scale is making an italic/oblique version, since much of the font is symbols that stays as-is in italic/oblique. There's also the even smaller task of only italicising the letters that were traditionally italic in APL fonts of yore.
+- The big one is making "APL335" — a proportional version of APL387.
+
+#### Expected Outcomes
+The contributor picks up a project from the above list and contributes to the repository with the required work.
+
 ## Make the TryAPL front end mobile friendly
 - Project: TryAPL Front End
 - Size: Medium - 175h
