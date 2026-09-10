@@ -8,6 +8,12 @@ Dyalog is a development environment for Dyalog APL. It is widely used in domains
 
 Learn more by visiting [Dyalog Ltd's website](https://www.dyalog.com) or have a look at the [Dyalog Documentation](https://help.dyalog.com).
 
+## About Dyalog Labs
+
+This repository lives in [Dyalog Labs](https://github.com/dyalog-labs), the GitHub organisation for experimental and supporting work from Dyalog Ltd. Projects published there are produced or maintained by Dyalog staff and shared with the APL community in the hope that they are useful. They are not part of Dyalog's commercially supported products. Issues and pull requests are welcome, but responses are best-effort and no service levels apply.
+
+For commercially supported software, see the main [Dyalog GitHub organisation](https://github.com/Dyalog). Several of the projects listed below are hosted there rather than in Dyalog Labs; this repository is the shared index of project ideas and mentoring opportunities across both organisations.
+
 ## What exactly is open source?
 
 "Open source" refers to software whose design and source code are publicly accessible, allowing anyone to study, modify, and share it. Open source fosters collaboration, transparency, and wider community participation in building and improving technology.
@@ -17,7 +23,7 @@ At Dyalog Ltd, we are committed to supporting the open source community. By maki
 ## Discussions and Community  
 
 ### Community Discussion Channels  
-- **[GitHub Discussions](https://github.com/Dyalog/OSS-Projects/discussions)**: Participate in structured discussions about the projects, share your ideas, and engage with mentors and peers.  
+- **[GitHub Discussions](https://github.com/dyalog-labs/OSS-Projects/discussions)**: Participate in structured discussions about the projects, share your ideas, and engage with mentors and peers.  
 - **[APL Orchard](https://apl.chat)**: A chat room dedicated to learn and teach APL, and to ask and answer questions about both golfing and general coding in APL. 
 
 ## Learn Dyalog APL
@@ -35,7 +41,7 @@ Join the vibrant APL community at APL Orchard to connect with enthusiasts and me
 
 Do you have an idea for a project that you or someone should work on, but is not on our list? Great! 💡
 
-We have made a [discussion](https://github.com/Dyalog/OSS-Projects/discussions/6) just for that, so we can comment and help you finalise it. Feel free to provide as much information as possible and then we'll look forward to connecting with you in this discussion
+We have made a [discussion](https://github.com/dyalog-labs/OSS-Projects/discussions/6) just for that, so we can comment and help you finalise it. Feel free to provide as much information as possible and then we'll look forward to connecting with you in this discussion
 
 Please try to include as much as possible from this template:
  
@@ -76,7 +82,7 @@ The contributor picks up a project from the above list and contributes to the re
 - Difficulty level: Medium
 - Project URL: https://github.com/Dyalog/TryAPL
 - Potential mentors: Rich Park ([@rikedyp](https://github.com/rikedyp)), Aarush Bhat ([@sloorush](https://github.com/sloorush)), Neil Kirsopp ([@cursork](https://github.com/cursork))
-- Discussions: [https://github.com/Dyalog/OSS-Projects/discussions/10](https://github.com/Dyalog/OSS-Projects/discussions/10)
+- Discussions: [https://github.com/dyalog-labs/OSS-Projects/discussions/10](https://github.com/dyalog-labs/OSS-Projects/discussions/10)
 
 #### Description:
 
@@ -99,7 +105,7 @@ HTML, CSS, JavaScript
 - Difficulty level: Medium
 - Project URL: https://github.com/dyalog/ewc and https://github.com/dyalog/ewc-client 
 - Potential mentors: Neil Kirsopp ([@cursork](https://github.com/cursork)), Morten Kromberg ([@mkromberg](https://github.com/mkromberg))
-- Discussions: [https://github.com/Dyalog/OSS-Projects/discussions/11](https://github.com/Dyalog/OSS-Projects/discussions/11)
+- Discussions: [https://github.com/dyalog-labs/OSS-Projects/discussions/11](https://github.com/dyalog-labs/OSS-Projects/discussions/11)
  
 #### Description:
  
@@ -121,7 +127,7 @@ HTML, CSS, JavaScript, React, some basic APL
 - Difficulty level: Medium
 - Project URL: https://github.com/dyalog/ewc and https://github.com/dyalog/ewc-client
 - Potential mentors: Neil Kirsopp ([@cursork](https://github.com/cursork)), Morten Kromberg ([@mkromberg](https://github.com/mkromberg))
-- Discussions: [https://github.com/Dyalog/OSS-Projects/discussions/13](https://github.com/Dyalog/OSS-Projects/discussions/13)
+- Discussions: [https://github.com/dyalog-labs/OSS-Projects/discussions/13](https://github.com/dyalog-labs/OSS-Projects/discussions/13)
 
 #### Description:
 
@@ -150,7 +156,7 @@ APL, EWC, JavaScript, React, HTML, CSS.
 - Difficulty level: Hard
 - Project URL: https://github.com/Co-dfns/Co-dfns
 - Potential mentors: Aaron Hsu ([@arcfide](https://github.com/arcfide)), Max Sun ([@MaxCan-Code](https://github.com/MaxCan-Code))
-- Discussions: [https://github.com/Dyalog/OSS-Projects/discussions/12](https://github.com/Dyalog/OSS-Projects/discussions/12)
+- Discussions: [https://github.com/dyalog-labs/OSS-Projects/discussions/12](https://github.com/dyalog-labs/OSS-Projects/discussions/12)
 
 #### Description:
 
@@ -192,7 +198,7 @@ There are two tasks of medium difficulty that can be undertaken in this project:
 - Difficulty level: Medium
 - Project URL: https://github.com/Dyalog/dyalog-jupyter-kernel
 - Potential mentors: Stefan Kruger ([@xpqz](https://github.com/xpqz)), Jesús Galán López ([@yiyus](https://github.com/yiyus)), Martina Crippa ([@martanit](https://github.com/martanit)), Max Sun ([@MaxCan-Code](https://github.com/MaxCan-Code)), Neil Kirsopp ([@cursork](https://github.com/cursork))
-- Discussions: [https://github.com/Dyalog/OSS-Projects/discussions/7](https://github.com/Dyalog/OSS-Projects/discussions/7)
+- Discussions: [https://github.com/dyalog-labs/OSS-Projects/discussions/7](https://github.com/dyalog-labs/OSS-Projects/discussions/7)
 
 The Dyalog Kernel currently does not implement any of the Jupyter [magics](https://ipython.readthedocs.io/en/stable/interactive/magics.html) -- meta-commands that don't get executed by the kernel itself, typically interfacing with the operating system, or with Jupyter extensions, "escaping" the Dyalog kernel in this case. 
 
@@ -213,7 +219,7 @@ Python, possibly JavaScript, possibly some APL
 - Difficulty level: Medium
 - Project URL: https://github.com/Dyalog/dyalog-jupyter-kernel
 - Potential mentors: Stefan Kruger ([@xpqz](https://github.com/xpqz)), Jesús Galán López ([@yiyus](https://github.com/yiyus)), Martina Crippa ([@martanit](https://github.com/martanit)), Max Sun ([@MaxCan-Code](https://github.com/MaxCan-Code)), Neil Kirsopp ([@cursork](https://github.com/cursork))
-- Discussions: [https://github.com/Dyalog/OSS-Projects/discussions/7](https://github.com/Dyalog/OSS-Projects/discussions/7)
+- Discussions: [https://github.com/dyalog-labs/OSS-Projects/discussions/7](https://github.com/dyalog-labs/OSS-Projects/discussions/7)
 
 Jupyter supports [widgets](https://ipywidgets.readthedocs.io/en/8.1.2/) -- simple in-cell interactive controls, such as sliders, buttons etc. The widget architecture is kernel-agnostic, and any kernel can implement access to such widgets. In this project, we'd like to implement the widget protocol for the Dyalog Jupyter kernel, so that we can show a slider that sets an APL value. This would greatly enhance exploratory programming in a Dyalog APL notebook: hook a slider up to a parameter in a model and see what the effects are without having to actually type and execute cells. 
 
